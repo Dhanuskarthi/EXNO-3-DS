@@ -1,4 +1,8 @@
 ## EXNO-3-DS
+```
+Name-Dhanus karthi S
+Reg no-24005701
+```
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
